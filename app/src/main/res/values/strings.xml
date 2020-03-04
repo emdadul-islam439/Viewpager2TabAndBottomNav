@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPager2Demo</string>
+    <string-array name="tabs">
+        <item>首页</item>
+        <item>知识</item>
+        <item>导航</item>
+        <item>项目</item>
+    </string-array>
+</resources>
